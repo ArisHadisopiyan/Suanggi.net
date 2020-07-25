@@ -1,2 +1,3 @@
 # Subscribe Youtube Suanggi Survival Papua
-# Kunjungi www.Suanggi.net
+# https://www.youtube.com/c/Suanggi/
+# Follow Us www.Suanggi.net
