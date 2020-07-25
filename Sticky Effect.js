@@ -1,12 +1,12 @@
 window.onscroll = function() {myFunction()};
 
-var header = document.getElementById("myHeader");
-var sticky = header.offsetTop;
+var header-suanggi = document.getElementById("SuanggiSurvivalPapua");
+var sticky = header-suanggi.offsetTop;
 
 function myFunction() {
   if (window.pageYOffset > sticky) {
-    header.classList.add("sticky");
+    header-suanggi.classList.add("sticky");
   } else {
-    header.classList.remove("sticky");
+    header-suanggi.classList.remove("sticky");
   }
 }
